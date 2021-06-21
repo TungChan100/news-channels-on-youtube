@@ -1,0 +1,159 @@
+
+
+<span id="Canada" class="tabcontent">
+======================= Canada =========================
+CBC            www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA/videos
+CBCNational          www.youtube.com/c/CBCTheNational/videos
+CTV            www.youtube.com/channel/UCi7Zk9baY1tvdlgxIML8MXg/videos
+CTVMorning           www.youtube.com/c/YourMorning/videos
+CityNews        www.youtube.com/user/citynewstoronto/videos
+BNN            www.youtube.com/c/BNNBloomberg/videos
+GlobalNews         www.youtube.com/c/globalnews/videos
+BreakfastBT            www.youtube.com/channel/UCrygFy9ZCNFrR3vtElhXaJg/videos
+REBEL               www.youtube.com/channel/UCGy6uV7yqGWDeUWTZzT3ZEg/videos
+CalgaryNews         www.youtube.com/user/680NewsAllNewsRadio/videos
+TorontoSun               www.youtube.com/channel/UCkjNuLzfw5Ep7EJuMdeFylw/videos
+
+TorontoStar               www.youtube.com/torontostar/videos
+GlobeandMail          www.youtube.com/c/globeandmail/videos
+
+CanadianPress           www.youtube.com/channel/UCj6EKBe990fanr4MSh45Alw/videos
+CBCVancouver             www.youtube.com/c/CBCVancouver/videos
+CBCNovaScotia            www.youtube.com/user/cbcns/videos
+CBCSaskatchewan               www.youtube.com/channel/UCvdbpUpDg1cA4f_Jfg_-_TQ/videos
+Calgary_Herald             www.youtube.com/user/CalgaryHeralddotcom/videos
+Ottawa_Citizen              www.youtube.com/c/ottawacitizen/videos
+</span>
+
+
+<span id="Business" class="tabcontent">
+ ================== Business =============================
+Bloomberg            www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/videos
+YahooFinance           www.youtube.com/c/YahooFinance/videos
+FoxBusiness            www.youtube.com/channel/UCCXoCcu9Rp7NPbTzIvogpZg/videos
+Economist                      www.youtube.com/c/TheEconomist/videos
+FinancialTimes          www.youtube.com/c/FinancialTimes/videos
+IBD                  www.youtube.com/c/investorsbusinessdaily/videos
+</span>
+
+
+<span id="English" class="tabcontent">
+  ================== English ==== ===========================
+WallStreetJournal          www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ/videos
+MSNBC                    www.youtube.com/c/msnbc/videos
+USAToday             www.youtube.com/channel/UCP6HGa63sBC7-KHtkme-p-g/videos
+FOX                www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/videos
+FOXNow            www.youtube.com/c/NewsNOW/videos
+Reuters            www.youtube.com/c/Reuters/videos
+
+CNNInter                www.youtube.com/channel/UC9vHFdspL3Br-wkfsn3sJlg/videos
+CNN                  www.youtube.com/user/CNN/videos
+
+WashingtonPost           www.youtube.com/channel/UCHd62-u_v4DvJ8TCFtpi4GA/videos
+EuroNews              www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/videos
+ABCNews               www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/videos
+ABCAction            www.youtube.com/channel/UCK0UUsCjtMRNtS3BPh1Yc4w/videos
+NBCNews               www.youtube.com/c/NBCNews/videos
+DWNews                www.youtube.com/c/dwnews/videos
+PBSNews             www.youtube.com/c/PBSNewsHour/videos
+AlJazeera             www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/videos
+VOANews              www.youtube.com/channel/UCVSNOxehfALut52NbkfRBaA/videos
+OneAmericaNews             www.youtube.com/channel/UCNbIDJNNgaRrXOD7VllIMRQ/videos
+CNBCInter                    www.youtube.com/channel/UCo7a6riBFJ3tkeHjvkXPn1g/videos
+CNBCTele                 www.youtube.com/c/CNBCtelevision/videos
+
+
+BloombergPolitics          www.youtube.com/channel/UCV61VqLMr2eIhH4f51PV0gA/videos
+CBN                  www.youtube.com/c/CBNnewsonline/videos
+Guardian           www.youtube.com/c/guardianwires/videos
+CBSNEWS                    www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g/videos
+CBSMorning                www.youtube.com/user/CBSThisMorning/videos
+NewYorkTimes                  www.youtube.com/c/nytimes/videos
+AFPNews                www.youtube.com/c/AFPnewsagency/videos
+BuzzFeedNews                     www.youtube.com/c/BuzzFeedNews/videos
+
+RTWorld              www.youtube.com/c/trtworld/videos
+TheHill             www.youtube.com/c/thehill/videos
+NewYorkPost          www.youtube.com/newyorkpost/videos
+Newsmax           www.youtube.com/c/NewsmaxtvLive/videos
+NTDTV            www.youtube.com/c/ntdtv/videos
+NEWS_COM_AU             www.youtube.com/c/newscomauhq/videos
+</span>
+
+
+
+<span id="US Local" class="tabcontent">
+====================== English Local ======================
+SeattleNews          www.youtube.com/user/KING5/videos
+FOXLouis             www.youtube.com/c/fox2stlouis/videos
+PIXNewYork              www.youtube.com/cw11/videos
+CBSNewYork                www.youtube.com/user/CBSNewYork/videos
+CBSLosAngeles               www.youtube.com/c/cbsla/videos
+WCNC                  www.youtube.com/channel/UC-RxXi2Xws6Uk22vp-sLbGA/videos
+WPTV               www.youtube.com/c/WPTVnews/videos
+FOXCarolina          www.youtube.com/channel/UCEm0gdukLIfI9P-LzLy2DIQ/videos
+FOX5NewYork                    www.youtube.com/myfoxny/videos
+LATimes              www.youtube.com/c/latimes/videos
+
+
+
+
+==================== ABC ===============================
+ABC15Arizona             www.youtube.com/channel/UCIVk1L1-JmpdiGuZcVjImtA/videos
+ABCCleveland           www.youtube.com/channel/UCAAmkc2sRESFoEtiKRTaTRA/videos
+ABCDetroit             www.youtube.com/c/wxyztvdetroit/videos
+ABCSANDIEGO          www.youtube.com/c/10newsvideos/videos
+ABCDenver             www.youtube.com/c/Denver7/videos
+ABCNewYok              www.youtube.com/c/abc7NY/videos
+ABCChicago            www.youtube.com/c/ABC7Chicago/videos
+
+ABCHouston           www.youtube.com/c/ABC13Houston/videos
+</span>
+
+
+<span id="UK" class="tabcontent">
+ ====================== UK ==============================
+SkyNews                   www.youtube.com/c/SkyNews/videos
+GoodMorningBritain         www.youtube.com/channel/UCq18eeL7D9Vd8DhjMcLh9QQ/videos
+BBC                       www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA/videos
+BBCLondon                 www.youtube.com/c/bbclondon/videos
+ITVNews                    www.youtube.com/c/ITVNews/videos
+Channel4                  www.youtube.com/channel/UCTrQ7HXWRRxr7OsOtodr2_w/videos
+TheSun                  www.youtube.com/channel/UCIzXayRP7-P0ANpq-nD-h5g/videos
+GuardianNews           www.youtube.com/c/guardianwires/videos
+DailyMail                  www.youtube.com/c/dailymail/videos
+
+LondonFreePress        www.youtube.com/channel/UCRROHNHB3JN8JxKST9xl_og/videos
+
+</span>
+
+<span id="Other" class="tabcontent">
+ ======================= Australia ============================
+SkyNewsAustralia          www.youtube.com/channel/UCO0akufu9MOzyz3nvGIXAAw/videos
+9NewsAustralia             www.youtube.com/c/9NewsAustralia/videos
+ABCNewsAustralia          www.youtube.com/c/NewsOnABC/videos
+7NEWSAustralia           www.youtube.com/c/7news/videos
+GuardianAustralia             www.youtube.com/c/GuardianAustraliagdn/videos
+ TODAYAustralia                www.youtube.com/user/IWakeUpWithTODAY/videos
+
+
+ ======================= Other ============================
+CNA               www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/videos
+NHKWORLD         www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/videos
+NipponJapan               www.youtube.com/channel/UCJD2Br_xC-3vY4nkJ9YPYDA/videos
+BBCAfrica            www.youtube.com/c/BBCAfrica/videos
+ArirangNews           www.youtube.com/channel/UCzznO4xSV8BKnUBPyswtCUw/videos
+FRANCE24                   www.youtube.com/c/FRANCE24English/videos
+Philippines_News           www.youtube.com/c/EagleNews/videos
+
+============================ RT =================================
+RT                 www.youtube.com/c/RT/videos
+RTAM                www.youtube.com/channel/UCczrL-2b-gYK3l4yDld4XlQ/videos
+RTUK                  www.youtube.com/c/RTUKnews/videos
+BoomBustRT                   www.youtube.com/user/BoomBustRT/videos
+</span>
+
+ 
+
+
+

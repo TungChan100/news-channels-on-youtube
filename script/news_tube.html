@@ -1,0 +1,192 @@
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News Channels</title>
+<style>
+img {
+   border: 3px solid #ddd;
+   height: 120;
+   width: 120;
+   padding: 4px;
+   margin: 6px;
+   border-radius: 5%;
+   box-shadow: 8px 8px 8px -5px  black;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding:  8px 14px;
+  transition: 0.3s;
+  font-size: 15px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+   /*  
+   display: none;  
+  padding: 4px 4px;
+  border: 0px solid #ccc;
+  border-top: none;
+  */
+}
+
+</style>
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+ </head>  
+<body  >
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Canada')">Canada</button>
+  <button class="tablinks" onclick="openCity(event, 'Business')">Business</button>
+  <button class="tablinks" onclick="openCity(event, 'English')">English</button>
+  <button class="tablinks" onclick="openCity(event, 'US Local')">US Local</button>
+   <button class="tablinks" onclick="openCity(event, 'UK')">UK</button>
+   <button class="tablinks" onclick="openCity(event, 'Other')">Other</button>
+ 
+</div>
+<span id="Canada" class="tabcontent">
+<a href='http://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA/videos'   target='_blank'  ><img src='icons\CBC.jpg'  ></a>
+<a href='http://www.youtube.com/c/CBCTheNational/videos'   target='_blank'  ><img src='icons\CBCNational.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCi7Zk9baY1tvdlgxIML8MXg/videos'   target='_blank'  ><img src='icons\CTV.jpg'  ></a>
+<a href='http://www.youtube.com/c/YourMorning/videos'   target='_blank'  ><img src='icons\CTVMorning.jpg'  ></a>
+<a href='http://www.youtube.com/user/citynewstoronto/videos'   target='_blank'  ><img src='icons\CityNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/BNNBloomberg/videos'   target='_blank'  ><img src='icons\BNN.jpg'  ></a>
+<a href='http://www.youtube.com/c/globalnews/videos'   target='_blank'  ><img src='icons\GlobalNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCrygFy9ZCNFrR3vtElhXaJg/videos'   target='_blank'  ><img src='icons\BreakfastBT.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCGy6uV7yqGWDeUWTZzT3ZEg/videos'   target='_blank'  ><img src='icons\REBEL.jpg'  ></a>
+<a href='http://www.youtube.com/user/680NewsAllNewsRadio/videos'   target='_blank'  ><img src='icons\CalgaryNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCkjNuLzfw5Ep7EJuMdeFylw/videos'   target='_blank'  ><img src='icons\TorontoSun.jpg'  ></a>
+<a href='http://www.youtube.com/torontostar/videos'   target='_blank'  ><img src='icons\TorontoStar.jpg'  ></a>
+<a href='http://www.youtube.com/c/globeandmail/videos'   target='_blank'  ><img src='icons\GlobeandMail.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCj6EKBe990fanr4MSh45Alw/videos'   target='_blank'  ><img src='icons\CanadianPress.jpg'  ></a>
+<a href='http://www.youtube.com/c/CBCVancouver/videos'   target='_blank'  ><img src='icons\CBCVancouver.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCvdbpUpDg1cA4f_Jfg_-_TQ/videos'   target='_blank'  ><img src='icons\CBCSaskatchewan.jpg'  ></a>
+<a href='http://www.youtube.com/user/CalgaryHeralddotcom/videos'   target='_blank'  ><img src='icons\Calgary_Herald.jpg'  ></a>
+<a href='http://www.youtube.com/c/ottawacitizen/videos'   target='_blank'  ><img src='icons\Ottawa_Citizen.jpg'  ></a>
+</span>
+<span id="Business" class="tabcontent">
+<a href='http://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/videos'   target='_blank'  ><img src='icons\Bloomberg.jpg'  ></a>
+<a href='http://www.youtube.com/c/YahooFinance/videos'   target='_blank'  ><img src='icons\YahooFinance.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCCXoCcu9Rp7NPbTzIvogpZg/videos'   target='_blank'  ><img src='icons\FoxBusiness.jpg'  ></a>
+<a href='http://www.youtube.com/c/TheEconomist/videos'   target='_blank'  ><img src='icons\Economist.jpg'  ></a>
+<a href='http://www.youtube.com/c/FinancialTimes/videos'   target='_blank'  ><img src='icons\FinancialTimes.jpg'  ></a>
+<a href='http://www.youtube.com/c/investorsbusinessdaily/videos'   target='_blank'  ><img src='icons\IBD.jpg'  ></a>
+</span>
+<span id="English" class="tabcontent">
+<a href='http://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ/videos'   target='_blank'  ><img src='icons\WallStreetJournal.jpg'  ></a>
+<a href='http://www.youtube.com/c/msnbc/videos'   target='_blank'  ><img src='icons\MSNBC.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCP6HGa63sBC7-KHtkme-p-g/videos'   target='_blank'  ><img src='icons\USAToday.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/videos'   target='_blank'  ><img src='icons\FOX.jpg'  ></a>
+<a href='http://www.youtube.com/c/NewsNOW/videos'   target='_blank'  ><img src='icons\FOXNow.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UC9vHFdspL3Br-wkfsn3sJlg/videos'   target='_blank'  ><img src='icons\CNNInter.jpg'  ></a>
+<a href='http://www.youtube.com/user/CNN/videos'   target='_blank'  ><img src='icons\CNN.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCHd62-u_v4DvJ8TCFtpi4GA/videos'   target='_blank'  ><img src='icons\WashingtonPost.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/videos'   target='_blank'  ><img src='icons\EuroNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/videos'   target='_blank'  ><img src='icons\ABCNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCK0UUsCjtMRNtS3BPh1Yc4w/videos'   target='_blank'  ><img src='icons\ABCAction.jpg'  ></a>
+<a href='http://www.youtube.com/c/NBCNews/videos'   target='_blank'  ><img src='icons\NBCNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/dwnews/videos'   target='_blank'  ><img src='icons\DWNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/PBSNewsHour/videos'   target='_blank'  ><img src='icons\PBSNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/videos'   target='_blank'  ><img src='icons\AlJazeera.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCVSNOxehfALut52NbkfRBaA/videos'   target='_blank'  ><img src='icons\VOANews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCNbIDJNNgaRrXOD7VllIMRQ/videos'   target='_blank'  ><img src='icons\OneAmericaNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCo7a6riBFJ3tkeHjvkXPn1g/videos'   target='_blank'  ><img src='icons\CNBCInter.jpg'  ></a>
+<a href='http://www.youtube.com/c/CNBCtelevision/videos'   target='_blank'  ><img src='icons\CNBCTele.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCV61VqLMr2eIhH4f51PV0gA/videos'   target='_blank'  ><img src='icons\BloombergPolitics.jpg'  ></a>
+<a href='http://www.youtube.com/c/CBNnewsonline/videos'   target='_blank'  ><img src='icons\CBN.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g/videos'   target='_blank'  ><img src='icons\CBSNEWS.jpg'  ></a>
+<a href='http://www.youtube.com/user/CBSThisMorning/videos'   target='_blank'  ><img src='icons\CBSMorning.jpg'  ></a>
+<a href='http://www.youtube.com/c/nytimes/videos'   target='_blank'  ><img src='icons\NewYorkTimes.jpg'  ></a>
+<a href='http://www.youtube.com/c/AFPnewsagency/videos'   target='_blank'  ><img src='icons\AFPNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/BuzzFeedNews/videos'   target='_blank'  ><img src='icons\BuzzFeedNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/trtworld/videos'   target='_blank'  ><img src='icons\RTWorld.jpg'  ></a>
+<a href='http://www.youtube.com/c/thehill/videos'   target='_blank'  ><img src='icons\TheHill.jpg'  ></a>
+<a href='http://www.youtube.com/newyorkpost/videos'   target='_blank'  ><img src='icons\NewYorkPost.jpg'  ></a>
+<a href='http://www.youtube.com/c/NewsmaxtvLive/videos'   target='_blank'  ><img src='icons\Newsmax.jpg'  ></a>
+<a href='http://www.youtube.com/c/ntdtv/videos'   target='_blank'  ><img src='icons\NTDTV.jpg'  ></a>
+<a href='http://www.youtube.com/c/newscomauhq/videos'   target='_blank'  ><img src='icons\NEWS_COM_AU.jpg'  ></a>
+</span>
+<span id="US Local" class="tabcontent">
+<a href='http://www.youtube.com/user/KING5/videos'   target='_blank'  ><img src='icons\SeattleNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/fox2stlouis/videos'   target='_blank'  ><img src='icons\FOXLouis.jpg'  ></a>
+<a href='http://www.youtube.com/cw11/videos'   target='_blank'  ><img src='icons\PIXNewYork.jpg'  ></a>
+<a href='http://www.youtube.com/user/CBSNewYork/videos'   target='_blank'  ><img src='icons\CBSNewYork.jpg'  ></a>
+<a href='http://www.youtube.com/c/cbsla/videos'   target='_blank'  ><img src='icons\CBSLosAngeles.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UC-RxXi2Xws6Uk22vp-sLbGA/videos'   target='_blank'  ><img src='icons\WCNC.jpg'  ></a>
+<a href='http://www.youtube.com/c/WPTVnews/videos'   target='_blank'  ><img src='icons\WPTV.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCEm0gdukLIfI9P-LzLy2DIQ/videos'   target='_blank'  ><img src='icons\FOXCarolina.jpg'  ></a>
+<a href='http://www.youtube.com/myfoxny/videos'   target='_blank'  ><img src='icons\FOX5NewYork.jpg'  ></a>
+<a href='http://www.youtube.com/c/latimes/videos'   target='_blank'  ><img src='icons\LATimes.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCIVk1L1-JmpdiGuZcVjImtA/videos'   target='_blank'  ><img src='icons\ABC15Arizona.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCAAmkc2sRESFoEtiKRTaTRA/videos'   target='_blank'  ><img src='icons\ABCCleveland.jpg'  ></a>
+<a href='http://www.youtube.com/c/10newsvideos/videos'   target='_blank'  ><img src='icons\ABCSANDIEGO.jpg'  ></a>
+<a href='http://www.youtube.com/c/abc7NY/videos'   target='_blank'  ><img src='icons\ABCNewYok.jpg'  ></a>
+<a href='http://www.youtube.com/c/ABC7Chicago/videos'   target='_blank'  ><img src='icons\ABCChicago.jpg'  ></a>
+<a href='http://www.youtube.com/c/ABC13Houston/videos'   target='_blank'  ><img src='icons\ABCHouston.jpg'  ></a>
+</span>
+<span id="UK" class="tabcontent">
+<a href='http://www.youtube.com/c/SkyNews/videos'   target='_blank'  ><img src='icons\SkyNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCq18eeL7D9Vd8DhjMcLh9QQ/videos'   target='_blank'  ><img src='icons\GoodMorningBritain.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA/videos'   target='_blank'  ><img src='icons\BBC.jpg'  ></a>
+<a href='http://www.youtube.com/c/bbclondon/videos'   target='_blank'  ><img src='icons\BBCLondon.jpg'  ></a>
+<a href='http://www.youtube.com/c/ITVNews/videos'   target='_blank'  ><img src='icons\ITVNews.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCTrQ7HXWRRxr7OsOtodr2_w/videos'   target='_blank'  ><img src='icons\Channel4.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCIzXayRP7-P0ANpq-nD-h5g/videos'   target='_blank'  ><img src='icons\TheSun.jpg'  ></a>
+<a href='http://www.youtube.com/c/guardianwires/videos'   target='_blank'  ><img src='icons\GuardianNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/dailymail/videos'   target='_blank'  ><img src='icons\DailyMail.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCRROHNHB3JN8JxKST9xl_og/videos'   target='_blank'  ><img src='icons\LondonFreePress.jpg'  ></a>
+</span>
+<span id="Other" class="tabcontent">
+<a href='http://www.youtube.com/channel/UCO0akufu9MOzyz3nvGIXAAw/videos'   target='_blank'  ><img src='icons\SkyNewsAustralia.jpg'  ></a>
+<a href='http://www.youtube.com/c/9NewsAustralia/videos'   target='_blank'  ><img src='icons\9NewsAustralia.jpg'  ></a>
+<a href='http://www.youtube.com/c/NewsOnABC/videos'   target='_blank'  ><img src='icons\ABCNewsAustralia.jpg'  ></a>
+<a href='http://www.youtube.com/c/7news/videos'   target='_blank'  ><img src='icons\7NEWSAustralia.jpg'  ></a>
+<a href='http://www.youtube.com/c/GuardianAustraliagdn/videos'   target='_blank'  ><img src='icons\GuardianAustralia.jpg'  ></a>
+<a href='http://www.youtube.com/user/IWakeUpWithTODAY/videos'   target='_blank'  ><img src='icons\TODAYAustralia.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/videos'   target='_blank'  ><img src='icons\CNA.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/videos'   target='_blank'  ><img src='icons\NHKWORLD.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCJD2Br_xC-3vY4nkJ9YPYDA/videos'   target='_blank'  ><img src='icons\NipponJapan.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCzznO4xSV8BKnUBPyswtCUw/videos'   target='_blank'  ><img src='icons\ArirangNews.jpg'  ></a>
+<a href='http://www.youtube.com/c/FRANCE24English/videos'   target='_blank'  ><img src='icons\FRANCE24.jpg'  ></a>
+<a href='http://www.youtube.com/c/EagleNews/videos'   target='_blank'  ><img src='icons\Philippines_News.jpg'  ></a>
+<a href='http://www.youtube.com/c/RT/videos'   target='_blank'  ><img src='icons\RT.jpg'  ></a>
+<a href='http://www.youtube.com/channel/UCczrL-2b-gYK3l4yDld4XlQ/videos'   target='_blank'  ><img src='icons\RTAM.jpg'  ></a>
+<a href='http://www.youtube.com/c/RTUKnews/videos'   target='_blank'  ><img src='icons\RTUK.jpg'  ></a>
+<a href='http://www.youtube.com/user/BoomBustRT/videos'   target='_blank'  ><img src='icons\BoomBustRT.jpg'  ></a>
+</span>
