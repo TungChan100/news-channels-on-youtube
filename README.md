@@ -6,6 +6,8 @@ Install latest version of Kotlin. At the folder with links.txt and icons folder,
 ```
 kotlin PageBuidler.kts
 ```
+news_tube.html will be generated.
+
 ## How to edit
 Add address on link.txt, If you want edit tabs, modify
 ```
