@@ -1,5 +1,5 @@
 ## News channels on youtube
-A very simple script that generates a html page with links of youtube news channels. 
+A very simple script that generates a html page with links of youtube news channels. So, you can save money on cable TV.
 
 ## How to run
 Install latest version of Kotlin. At the folder with links.txt and icons folder, and runs
