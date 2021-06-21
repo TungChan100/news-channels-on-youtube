@@ -6,6 +6,12 @@ Install latest version of Kotlin. At the folder with links.txt and icons folder,
 ```
 kotlin PageBuidler.kts
 ```
+## How to edit
+Add address on link.txt, If you want edit tabs, modify
+```
+<button class="tablinks" onclick="openCity(event, 'Canada')">Canada</button>
+```
+
 
 ## Screen shot
 ![alt text](screen-shots/screenshot1.jpg/)
